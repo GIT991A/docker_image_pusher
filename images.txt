@@ -1,1 +1,1 @@
---platform linux/arm64 caddy:2.11.4
+ghcr.io/openclaw/openclaw:latest
